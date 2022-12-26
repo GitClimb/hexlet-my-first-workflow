@@ -1,1 +1,2 @@
 ###hexlet-my-first-workflow
+[![hello-world](https://github.com/GitClimb/hexlet-my-first-workflow/actions/workflows/hello-world.yaml/badge.svg)](https://github.com/GitClimb/hexlet-my-first-workflow/actions/workflows/hello-world.yaml)
